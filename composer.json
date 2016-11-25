@@ -1,5 +1,5 @@
 {
-    "name": "typicms/users",
+    "name": "ahuezo/typi-users",
     "description": "",
     "license": "MIT",
     "authors": [
@@ -9,7 +9,7 @@
         }
     ],
     "require": {
-        "typicms/core": "~2.9.0"
+        "ahuezo/typi-core": "~2.9.0"
     },
     "autoload": {
         "psr-4": {
